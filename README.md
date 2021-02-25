@@ -69,7 +69,7 @@ Am verificat daca eroare este mai mica decat toleranta. Daca da, iesim din
 while si l-am aflat pe x. Daca nu, vechiul x devine x si repetam pasii 
 anteriori pana cand eroare devine mai mica decat toleranta.
 
-
+<br/>
 
 2. K-Means - part-2
 ------------------------------------------------------------------------------
@@ -108,7 +108,7 @@ Daca distanta aflata este mai mica decat distanta minima, acea distnta va
 deveni noua distanta minima. Dupa ce termin de parcurs centroizii, calzulez
 costul, costul fiind suma distantelor minime.
 
-
+<br/>
 
 3. Householder prediction - part-3
 -------------------------------------------------------------------------------
