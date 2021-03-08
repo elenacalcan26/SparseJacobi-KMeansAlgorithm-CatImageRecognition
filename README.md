@@ -1,4 +1,4 @@
-# SparseJacobi-KMeansAlgorithm-HouseholderPrediction
+# SparseJacobi-KMeansAlgorithm-CatImageRecognition
 
 ##### Calcan Elena-Claudia <br/>
 ##### 311CA
@@ -110,7 +110,7 @@ costul, costul fiind suma distantelor minime.
 
 <br/>
 
-3. Householder prediction - part-3
+3. Cat Image Recognition - Householder prediction - part-3
 -------------------------------------------------------------------------------
 
 1. function [sol] = rgbHistogram(path to image, count bins)
